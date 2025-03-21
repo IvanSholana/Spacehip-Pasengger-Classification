@@ -27,20 +27,10 @@ In the year 2912, Spaceship Titanic suffered a catastrophic accident while trave
 - Important factors include **CryoSleep status, age, and spending behavior**.
 - The model can be further optimized for real-world space travel risk assessment.
 
-## 📂 Project Structure
-```
-📂 spaceship-classification
-│-- 📄 spaceship_classification.ipynb  # Jupyter Notebook with implementation
-│-- 📄 train.csv  # Training dataset
-│-- 📄 test.csv  # Test dataset
-│-- 📄 submission.csv  # Predictions for test dataset
-│-- 📄 README.md  # Project documentation
-```
-
 ## ⚙️ How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/spaceship-classification.git
+   git clone https://github.com/IvanSholana/Spacehip-Pasengger-Classification.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -53,21 +43,5 @@ In the year 2912, Spaceship Titanic suffered a catastrophic accident while trave
 4. Run the Jupyter Notebook or Python script to preprocess data and train the model.
 5. Evaluate model performance using test data.
 
-## 🛠 Dependencies
-- Python 3.x
-- Pandas
-- NumPy
-- Scikit-learn
-- Seaborn
-- Matplotlib
-- CatBoost
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, submit issues, or make pull requests.
-
-## 📬 Contact
-For any inquiries, reach out via [GitHub Issues](https://github.com/yourusername/spaceship-classification/issues).
-
----
-**Author:** [Your Name]  
-**Date:** March 2025
